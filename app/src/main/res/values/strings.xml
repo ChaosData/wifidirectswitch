@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Wifi Direct Switch</string>
+    <string name="app_name">WiFi Direct Switch</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="status">Status: Disabled</string>
     <string name="ssid">SSID: (none)</string>
     <string name="password">Password: (none)</string>
-
+    <string name="ip">IP: (none)</string>
+    <string name="errors"></string>
 </resources>

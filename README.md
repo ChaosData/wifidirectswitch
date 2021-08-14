@@ -1,4 +1,4 @@
-# Wifi Direct Switch
+# WiFi Direct Switch
 
 Google removed the setting app feature to turn Wifi Direct (aka WiFi P2P), this
 app can be used to enable/disable it. It will also display the WPA2 "legacy"
